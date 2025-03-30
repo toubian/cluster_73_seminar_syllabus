@@ -182,7 +182,7 @@ Externally, the lovely folks in the the academic counselling unit of the College
 | 7 | Decision-making | Journal 6, Project 2 |
 | 8 | Perception + pattern recognition | Journal 7, Rough Draft |
 | 9 | Ethics: AI + cognition | Journal 8, Project 3, Project Meeting |
-| 10 | Human-machine futures | Journal 9, Final Draft |
+| 10 | Human-machine futures | Journal 9, Revised Draft |
 | Finals | Presentations | Final Project Due |
 
 
