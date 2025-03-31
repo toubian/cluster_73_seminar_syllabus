@@ -153,6 +153,22 @@ If I can't help you (or if you feel the need to go all the way to the top) your 
 
 Externally, the lovely folks in the the academic counselling unit of the College of letters and Science can help you with most other things. They can be reached through Message Ceter on MyUCLA. 
 
+### Katherine and Alexandra are also still available to you!
+
+Here is their information:
+
+**Katherine Kapsidelis**  
+*Cluster 73 Librarian*  
+[kapsidelis@library.ucla.edu](mailto:kapsidelis@library.ucla.edu)  
+[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/kapsidelis/virtual)
+
+**Alexandra Gamboa**  
+*Cluster 73 PRWS*  
+[alexgamboa@g.ucla.edu](mailto:alexgamboa@g.ucla.edu)  
+[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/gamboa)
+
+
+
 ## schedule overview
 
 | Week | Date       | Topic                                    | Readings                                                                                                 | Activities / Assignments                                                                                      |
