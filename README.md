@@ -1,6 +1,6 @@
 # Cluster 73C: The Brain as a Database  
 **Spring 2025**  
-**When:** Tuesdays, 9:00–12:00 PM  
+**When:** Tuesdays, 9:30–12:20 PM  
 **Where:** Covel 225  
 **Instructor:** Sophia Toubian  
 **Email:** [toubian@ucla.edu](mailto:toubian@ucla.edu)  
