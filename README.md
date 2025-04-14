@@ -60,14 +60,14 @@ This course fulfills the Writing II requirement. We'll practice:
 - Due every Sunday at 11:59 PM  
 - **No RMDs or files without your name**
 
-### programming reflections (30%)
-Three reflections on hands-on classtime projects using real data:
-1. Neural Network Simulation  
-2. Cognitive Process Modeling  
-3. NLP Challenge  
+### programming problem set projects (30%)
+Three reflections on hands-on take home tutorials using real data:
+1. Intro to R 1  
+2. Intro to R 2  
+3. Intro to Python 1 (subject to change)   
 
 ### final project (35%)
-
+ 
 Choose one:
 
 **A. Comparative Analysis (6–8 pages)**  
