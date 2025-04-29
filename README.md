@@ -178,9 +178,9 @@ Here is their information:
 | 3    | Apr 15     | Neural Pathways and Info Processing       | Excerpt from *The Brain That Changes Itself* by Norman Doidge                                            | Project 1 introduced<br>Final project prompt<br>Writing workshop: Annotating sources                          |
 | 4    | Apr 22     | Memory Systems: Biological and Artificial | Big Capta? by Jeremy Hunsinger                                                       | Final project brainstorming<br>Writing workshop: Thesis statement<br>Project 1 due<br>Project meeting        |
 | 5    | Apr 29     | Learning and Adaptation                   | *Make It Stick* by Peter Brown (Introduction + Chapter 2)                                                | Project 2 introduced<br>Writing workshop: First Paragraph                                              |
-| 6    | May 6      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   | Debate: AI language limits<br>Writing workshop: Drafting                                                 |
+| 6    | May 6      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   | **ASYNCHRONOUS**                                                 |
 | 7    | May 13     | Decision Making and Problem Solving       | *Thinking, Fast and Slow* by Daniel Kahneman (Part I)                                                    | Peer review<br>Writing workshop: Source integration<br>Project 2 due                                          |
-| 8    | May 20     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | Project 3 introduced<br>Writing workshop: Argument structure<br>Draft due                                     |
+| 8    | May 20     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | **ASYNCHRONOUS**,br.Project 3 introduced<br>Draft due                                     |
 | 9    | May 27     | Ethics of AI and Cognitive Enhancement    | *Weapons of Math Destruction* by Cathy O’Neil (Introduction + Chapter 1–2)                               | Case studies<br>Writing workshop: Citation<br>Project 3 due                                                   |
 | 10   | Jun 3      | Future of Human-Machine Intelligence      | *Life 3.0* by Max Tegmark (Chapters 1 + Epilogue)                                                        | Final presentations<br>Writing workshop: Presenting research<br>Revised draft due                             |
 | Finals | Jun 10   | —                                         | —                                                                                                        | Final project due                                                                                            |
@@ -194,9 +194,9 @@ Here is their information:
 | 3 | Neural networks | Journal 2 |
 | 4 | Biological vs. computer memory | Journal 3, Project 1, Final project choice check-in |
 | 5 | Learning and neuroplasticity | Journal 4, Annotated Bib + Thesis |
-| 6 | Language + NLP | Journal 5, Project paragraph |
+| 6 | Language + NLP | Journal 5, Project paragraph<br>**ASYNCHRONOUS** |
 | 7 | Decision-making | Journal 6, Project 2 |
-| 8 | Perception + pattern recognition | Journal 7, Rough Draft |
+| 8 | Perception + pattern recognition | Journal 7, Rough Draft<br>**ASYNCHRONOUS** |
 | 9 | Ethics: AI + cognition | Journal 8, Project 3, Project Meeting |
 | 10 | Human-machine futures | Journal 9, Revised Draft |
 | Finals | N/A | Final Project Due |
