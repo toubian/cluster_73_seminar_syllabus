@@ -133,7 +133,7 @@ This is a pedagogical experiment. The goal is to develop your reading, writing, 
 
 - **Your well-being comes first.** If you are sick, heartbroken, or exhausted, come talk to me. This work is not more important than your well-being.
 
-- **Attend Class.** This are where we make meaning. If you must miss class, email me. You are allowed one absence from lecture, no questions asked. Further absences will require a doctor’s note for illness. Alternatively, if you miss more than one class you can write me 2 double-spaced pages about the theme of that class (turned in anytime before Sunday of Finals Week) and recieve credit for that session's attendance (but not participation). 
+- **Attend Class.** This are where we make meaning. If you must miss class, email me. You are allowed one absence from lecture, no questions asked. Further absences will require a doctor’s note for illness. Alternatively, if you miss more than one class you can write me 2 double-spaced pages about the theme of that class (turned in anytime before Sunday of Finals Week) and receive credit for that session's attendance (but not participation). 
 
 - **Respect others and their ideas.** Let others speak, listen well, and participate thoughtfully. Be kind, be curious, and call on course concepts to support your ideas.
 
