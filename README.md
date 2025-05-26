@@ -197,7 +197,7 @@ Here is their information:
 | 6 | Language + NLP | Journal 5, Project paragraph<br>**ASYNCHRONOUS** |
 | 7 | Decision-making | Journal 6, Project 2 |
 | 8 | Perception + pattern recognition | Journal 7, Rough Draft<br>**ASYNCHRONOUS** |
-| 9 | Ethics: AI + cognition | Journal 8, Project 3, Project Meeting |
+| 9 | Ethics: AI + cognition | Journal 8, Project 3 |
 | 10 | Human-machine futures | Journal 9, Revised Draft |
 | Finals | N/A | Final Project Due |
 
