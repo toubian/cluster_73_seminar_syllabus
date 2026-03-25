@@ -82,6 +82,7 @@ Be present, prepared, and engaged in discussions, workshops, and peer review.
 ### in-class writing (5%)
 Short reflection activities during class.
 
+
 ## grading guidelines
 
 **Journals**  
@@ -106,9 +107,11 @@ Short reflection activities during class.
 - Peer collaboration  
 - Consistent engagement
 
+
 ## how class works
 
 We are a community of students finding our way at UCLA together. This means several things:
+
 
 ### Structure
 
@@ -129,6 +132,7 @@ This is a pedagogical experiment. The goal is to develop your reading, writing, 
 
 **Every second together counts.** Make the most of the time you have with your fellow students. 2 hours and 50 minutes may seem like a long time, but we've got a lot to fit in every week. Your peers are your greatest resource in expanding your understanding and ability to learn.
 
+
 ## class guidelines
 
 - **Your well-being comes first.** If you are sick, heartbroken, or exhausted, come talk to me. This work is not more important than your well-being.
@@ -142,6 +146,7 @@ This is a pedagogical experiment. The goal is to develop your reading, writing, 
 - **Take breaks!** Rest is part of learning.
 
 - **Take your ideas seriously.** This course is built around *your* thoughts. Write, talk, reflect—let your voice grow.
+
 
 ## I need help with something! Who do I ask?
 
@@ -167,6 +172,7 @@ Here is their information:
 [alexgamboa@g.ucla.edu](mailto:alexgamboa@g.ucla.edu)  
 [Schedule an Appointment](https://calendar.library.ucla.edu/appointments/gamboa)
 
+                                                                                     |
 
 
 ## schedule overview
@@ -178,9 +184,9 @@ Here is their information:
 | 3    | Apr 16     | Neural Pathways and Info Processing       | Excerpt from *The Brain That Changes Itself* by Norman Doidge                                            | Project 1 introduced<br>Final project prompt<br>Writing workshop: Annotating sources                          |
 | 4    | Apr 23     | Memory Systems: Biological and Artificial | Big Capta? by Jeremy Hunsinger                                                       | Final project brainstorming<br>Writing workshop: Thesis statement<br>Project 1 due<br>Project meeting        |
 | 5    | Apr 30     | Learning and Adaptation                   | *Make It Stick* by Peter Brown (Introduction + Chapter 2)                                                | Project 2 introduced<br>Writing workshop: First Paragraph                                              |
-| 6    | May 7      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   | **ASYNCHRONOUS**                                                 |
+| 6    | May 7      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   |                                                 |
 | 7    | May 14     | Decision Making and Problem Solving       | *Thinking, Fast and Slow* by Daniel Kahneman (Part I)                                                    | Peer review<br>Writing workshop: Source integration<br>Project 2 due                                          |
-| 8    | May 21     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | **ASYNCHRONOUS**<br>Project 3 introduced<br>Draft due                                     |
+| 8    | May 21     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | <br>Project 3 introduced<br>Draft due                                     |
 | 9    | May 28     | Ethics of AI and Cognitive Enhancement    | *Weapons of Math Destruction* by Cathy O’Neil (Introduction + Chapter 1–2)                               | Case studies<br>Writing workshop: Citation<br>Project 3 due                                                   |
 | 10   | Jun 4      | Future of Human-Machine Intelligence      | *Life 3.0* by Max Tegmark (Chapters 1 + Epilogue)                                                        | Final presentations<br>Writing workshop: Presenting research<br>Revised draft due                             |
 | Finals | Jun 12   | —                                         | —                                                                                                        | Final project due                                                                                            |
@@ -197,7 +203,7 @@ Here is their information:
 | 6 | Language + NLP | Journal 5, Project paragraph<br>**ASYNCHRONOUS** |
 | 7 | Decision-making | Journal 6, Project 2 |
 | 8 | Perception + pattern recognition | Journal 7, Rough Draft<br>**ASYNCHRONOUS** |
-| 9 | Ethics: AI + cognition | Journal 8, Project 3 |
+| 9 | Ethics: AI + cognition | Journal 8, Project 3, Project Meeting |
 | 10 | Human-machine futures | Journal 9, Revised Draft |
 | Finals | N/A | Final Project Due |
 
