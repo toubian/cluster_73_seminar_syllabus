@@ -172,8 +172,6 @@ Here is their information:
 [alexgamboa@g.ucla.edu](mailto:alexgamboa@g.ucla.edu)  
 [Schedule an Appointment](https://calendar.library.ucla.edu/appointments/gamboa)
 
-                                                                                     |
-
 
 ## schedule overview
 
