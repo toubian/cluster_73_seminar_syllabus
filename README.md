@@ -154,7 +154,7 @@ Internally I am your first stop for any information or issue, whether it be tech
 
 If I can't help you (or if you feel the need to go all the way to the top) your cluster coordinator can be reached by email at: 
 
-- Sally Gibbons (Coordinator) [sally.gibbons4@gmail.com ](sally.gibbons4@gmail.com )
+- Professor Phillips (Coordinator) [lizphillips@ucla.edu(lizphillips@ucla.edu)
 
 Externally, the lovely folks in the the academic counselling unit of the College of letters and Science can help you with most other things. They can be reached through Message Ceter on MyUCLA. 
 
