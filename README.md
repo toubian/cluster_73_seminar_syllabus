@@ -1,7 +1,7 @@
 # Cluster 73C: The Brain as a Database  
-**Spring 2025**  
-**When:** Tuesdays, 9:30–12:20 PM  
-**Where:** Covel 225  
+**Spring 2026**  
+**When:** Thursdays, 12:30-3:20 PM  
+**Where:** Public Affairs 2278  
 **Instructor:** Sophia Toubian  
 **Email:** [toubian@ucla.edu](mailto:toubian@ucla.edu)  
 **Office Hours:** By appointment via [Calendly](https://calendly.com/toubian) (Zoom or in-person)
@@ -10,7 +10,7 @@ The following is the *seminar* version of our syllabus for this spring. It may c
 
 ## about me
 
-Hi! I'm Sophia Toubian, a 2nd-year PhD student in the Information Studies department. I was also at UCLA for undergrad (Double Bruin!) where I studied Political Science and Society + Genetics.
+Hi! I'm Sophia Toubian, a 3rd-year PhD candidate in the Information Studies department. I was also at UCLA for undergrad (Double Bruin!) where I studied Political Science and Society + Genetics.
 
 My research uses network science to understand how we define and transmit “data.” I was born in London and raised between the UK and LA. I love surfing, climbing, basketball, pottery... and during finals? Movies, Anne Carson, and way too much mac & cheese.
 
@@ -25,7 +25,7 @@ My office hours will be held by appointment. Sign up at the link below. There ar
 
 Emailing me at **[toubian@ucla.edu](mailto:toubian@ucla.edu)** is the best way to reach me. 
 
-I'll do my best to reply within **24 hours** on weekdays, and before Monday morning on weekends. If your email is urgent (missing section, etc.) please have "urgent" as the first word in your subject line. Please also include your full name somewhere in your email. 
+I'll do my best to reply within **24 hours** on weekdays, and before Monday morning on weekends. If your email is urgent (missing class, etc.) please have "urgent" as the first word in your subject line. Please also include your full name somewhere in your email. 
 
 As always, feel free to reach out with any questions and I'll do my best to get back to you. The cluster programs are meant to function as an introduction to UCLA as a whole and I hope to help facilitate that for you!
 
@@ -95,7 +95,7 @@ Short reflection activities during class.
 - Creativity  
 - Reflective writing
 
-**Final project**  
+**Final Paper**  
 - Analytical depth  
 - Integration of course ideas  
 - Polished academic writing  
@@ -133,7 +133,7 @@ This is a pedagogical experiment. The goal is to develop your reading, writing, 
 
 - **Your well-being comes first.** If you are sick, heartbroken, or exhausted, come talk to me. This work is not more important than your well-being.
 
-- **Attend Class.** This are where we make meaning. If you must miss class, email me. You are allowed one absence from lecture, no questions asked. Further absences will require a doctor’s note for illness. Alternatively, if you miss more than one class you can write me 2 double-spaced pages about the theme of that class (turned in anytime before Sunday of Finals Week) and receive credit for that session's attendance (but not participation). 
+- **Attend Class.** This are where we make meaning. If you must miss class, email me. You are allowed one absence from class, no questions asked. Further absences will require a doctor’s note for illness or some other documentation of your situation. If you're not sure what counts, come talk to me. Alternatively, if you miss more than one class you can write me 2 double-spaced pages about the theme of that class (turned in anytime before Sunday of Finals Week) and receive credit for that session's attendance (but not participation). 
 
 - **Respect others and their ideas.** Let others speak, listen well, and participate thoughtfully. Be kind, be curious, and call on course concepts to support your ideas.
 
@@ -160,7 +160,7 @@ Here is their information:
 **Katherine Kapsidelis**  
 *Cluster 73 Librarian*  
 [kapsidelis@library.ucla.edu](mailto:kapsidelis@library.ucla.edu)  
-[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/kapsidelis/virtual)
+[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/kapsidelis/virtual )
 
 **Alexandra Gamboa**  
 *Cluster 73 PRWS*  
@@ -173,17 +173,17 @@ Here is their information:
 
 | Week | Date       | Topic                                    | Readings                                                                                                 | Activities / Assignments                                                                                      |
 |------|------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 1    | Apr 1      | Intro to Neural and Computational Systems | None                                                                                                     | Writing workshop: Research questions                                                                          |
-| 2    | Apr 8      | Cognitive Processes and Computational Models | Excerpt from *Critical Code Studies* by Mark C. Marino                                                       | Writing workshop: Evaluating sources                                                                          |
-| 3    | Apr 15     | Neural Pathways and Info Processing       | Excerpt from *The Brain That Changes Itself* by Norman Doidge                                            | Project 1 introduced<br>Final project prompt<br>Writing workshop: Annotating sources                          |
-| 4    | Apr 22     | Memory Systems: Biological and Artificial | Big Capta? by Jeremy Hunsinger                                                       | Final project brainstorming<br>Writing workshop: Thesis statement<br>Project 1 due<br>Project meeting        |
-| 5    | Apr 29     | Learning and Adaptation                   | *Make It Stick* by Peter Brown (Introduction + Chapter 2)                                                | Project 2 introduced<br>Writing workshop: First Paragraph                                              |
-| 6    | May 6      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   | **ASYNCHRONOUS**                                                 |
-| 7    | May 13     | Decision Making and Problem Solving       | *Thinking, Fast and Slow* by Daniel Kahneman (Part I)                                                    | Peer review<br>Writing workshop: Source integration<br>Project 2 due                                          |
-| 8    | May 20     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | **ASYNCHRONOUS**<br>Project 3 introduced<br>Draft due                                     |
-| 9    | May 27     | Ethics of AI and Cognitive Enhancement    | *Weapons of Math Destruction* by Cathy O’Neil (Introduction + Chapter 1–2)                               | Case studies<br>Writing workshop: Citation<br>Project 3 due                                                   |
-| 10   | Jun 3      | Future of Human-Machine Intelligence      | *Life 3.0* by Max Tegmark (Chapters 1 + Epilogue)                                                        | Final presentations<br>Writing workshop: Presenting research<br>Revised draft due                             |
-| Finals | Jun 10   | —                                         | —                                                                                                        | Final project due                                                                                            |
+| 1    | Apr 2      | Intro to Neural and Computational Systems | None                                                                                                     | Writing workshop: Research questions                                                                          |
+| 2    | Apr 9      | Cognitive Processes and Computational Models | Excerpt from *Critical Code Studies* by Mark C. Marino                                                       | Writing workshop: Evaluating sources                                                                          |
+| 3    | Apr 16     | Neural Pathways and Info Processing       | Excerpt from *The Brain That Changes Itself* by Norman Doidge                                            | Project 1 introduced<br>Final project prompt<br>Writing workshop: Annotating sources                          |
+| 4    | Apr 23     | Memory Systems: Biological and Artificial | Big Capta? by Jeremy Hunsinger                                                       | Final project brainstorming<br>Writing workshop: Thesis statement<br>Project 1 due<br>Project meeting        |
+| 5    | Apr 30     | Learning and Adaptation                   | *Make It Stick* by Peter Brown (Introduction + Chapter 2)                                                | Project 2 introduced<br>Writing workshop: First Paragraph                                              |
+| 6    | May 7      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   | **ASYNCHRONOUS**                                                 |
+| 7    | May 14     | Decision Making and Problem Solving       | *Thinking, Fast and Slow* by Daniel Kahneman (Part I)                                                    | Peer review<br>Writing workshop: Source integration<br>Project 2 due                                          |
+| 8    | May 21     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | **ASYNCHRONOUS**<br>Project 3 introduced<br>Draft due                                     |
+| 9    | May 28     | Ethics of AI and Cognitive Enhancement    | *Weapons of Math Destruction* by Cathy O’Neil (Introduction + Chapter 1–2)                               | Case studies<br>Writing workshop: Citation<br>Project 3 due                                                   |
+| 10   | Jun 4      | Future of Human-Machine Intelligence      | *Life 3.0* by Max Tegmark (Chapters 1 + Epilogue)                                                        | Final presentations<br>Writing workshop: Presenting research<br>Revised draft due                             |
+| Finals | Jun 12   | —                                         | —                                                                                                        | Final project due                                                                                            |
 
 ## due dates
 
