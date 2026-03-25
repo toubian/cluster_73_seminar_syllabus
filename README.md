@@ -10,7 +10,7 @@ The following is the *seminar* version of our syllabus for this spring. It may c
 
 ## about me
 
-Hi! I'm Sophia Toubian, a 3rd-year PhD candidate in the Information Studies department. I was also at UCLA for undergrad (Double Bruin!) where I studied Political Science and Society + Genetics.
+Hi! I'm Sophia, a 3rd-year PhD candidate in the Information Studies department. I was also at UCLA for undergrad (Double Bruin!) where I studied Political Science and Society + Genetics.
 
 My research uses network science to understand how we define and transmit “data.” I was born in London and raised between the UK and LA. I love surfing, climbing, basketball, pottery... and during finals? Movies, Anne Carson, and way too much mac & cheese.
 
