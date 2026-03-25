@@ -184,7 +184,7 @@ Here is their information:
 | 5    | Apr 30     | Learning and Adaptation                   | *Make It Stick* by Peter Brown (Introduction + Chapter 2)                                                | Project 2 introduced<br>Writing workshop: First Paragraph                                              |
 | 6    | May 7      | Language Processing: Brain & Machine      | *You Look Like a Thing and I Love You* by Janelle Shane (Chapters 3–4)                                   |                                                 |
 | 7    | May 14     | Decision Making and Problem Solving       | *Thinking, Fast and Slow* by Daniel Kahneman (Part I)                                                    | Peer review<br>Writing workshop: Source integration<br>Project 2 due                                          |
-| 8    | May 21     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | <br>Project 3 introduced<br>Draft due                                     |
+| 8    | May 21     | Perception and Pattern Recognition        | *The Man Who Mistook His Wife for a Hat* by Oliver Sacks (Selected case studies)                         | Project 3 introduced<br>Draft due                                     |
 | 9    | May 28     | Ethics of AI and Cognitive Enhancement    | *Weapons of Math Destruction* by Cathy O’Neil (Introduction + Chapter 1–2)                               | Case studies<br>Writing workshop: Citation<br>Project 3 due                                                   |
 | 10   | Jun 4      | Future of Human-Machine Intelligence      | *Life 3.0* by Max Tegmark (Chapters 1 + Epilogue)                                                        | Final presentations<br>Writing workshop: Presenting research<br>Revised draft due                             |
 | Finals | Jun 12   | —                                         | —                                                                                                        | Final project due                                                                                            |
@@ -198,9 +198,9 @@ Here is their information:
 | 3 | Neural networks | Journal 2 |
 | 4 | Biological vs. computer memory | Journal 3, Project 1, Final project choice check-in |
 | 5 | Learning and neuroplasticity | Journal 4, Annotated Bib + Thesis |
-| 6 | Language + NLP | Journal 5, Project paragraph<br>**ASYNCHRONOUS** |
+| 6 | Language + NLP | Journal 5, Project paragraph |
 | 7 | Decision-making | Journal 6, Project 2 |
-| 8 | Perception + pattern recognition | Journal 7, Rough Draft<br>**ASYNCHRONOUS** |
+| 8 | Perception + pattern recognition | Journal 7, Rough Draft |
 | 9 | Ethics: AI + cognition | Journal 8, Project 3, Project Meeting |
 | 10 | Human-machine futures | Journal 9, Revised Draft |
 | Finals | N/A | Final Project Due |
