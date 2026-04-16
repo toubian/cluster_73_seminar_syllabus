@@ -83,6 +83,10 @@ Be present, prepared, and engaged in discussions, workshops, and peer review.
 Short reflection activities during class.
 
 
+#### *a note on late work: 
+I have no set late work policy, everything is case by case. That being said, if you know you need more time please let me know *as soon as possible*. I try to be liberal with extensions. In this case it is better to ask for permission than forgiveness. 
+
+
 ## grading guidelines
 
 **Journals**  
